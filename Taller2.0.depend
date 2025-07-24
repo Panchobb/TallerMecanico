@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1752842553 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\clientes.cpp
+	<iostream>
+	<conio.h>
+	"Clientes.h"
+
+1752842493 c:\users\francisco benitez\onedrive\escritorio\taller2.0\clientes.h
+
+1752851618 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\main.cpp
+	"MenuPrincipal.h"
+
+1752842589 c:\users\francisco benitez\onedrive\escritorio\taller2.0\vehiculos.h
+
+1752869769 c:\users\francisco benitez\onedrive\escritorio\taller2.0\servicios.h
+	"Clientes.h"
+	"Vehiculos.h"
+	"Repuestos.h"
+	"Fecha.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1752842870 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\vehiculos.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	"Vehiculos.h"
+
+1752869880 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\servicios.cpp
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cctype>
+
+1752846317 c:\users\francisco benitez\onedrive\escritorio\taller2.0\repuestos.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1752846514 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\repuestos.cpp
+	"Repuestos.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	<cctype>
+
+1752866656 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\facturacion.cpp
+	"Facturacion.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1752870936 c:\users\francisco benitez\onedrive\escritorio\taller2.0\facturacion.h
+	"Servicios.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+
+1752851589 c:\users\francisco benitez\onedrive\escritorio\taller2.0\menuprincipal.h
+	"Repuestos.h"
+	"Servicios.h"
+	"Facturacion.h"
+
+1752866287 source:c:\users\francisco benitez\onedrive\escritorio\taller2.0\menuprincipal.cpp
+	"MenuPrincipal.h"
+	<iostream>
+	<conio.h>
+
+1752869140 c:\users\francisco benitez\onedrive\escritorio\taller2.0\fecha.h
+	<iostream>
+	<cstdio>
+
+1752842553 source:e:\taller2.0\taller2.0\clientes.cpp
+	<iostream>
+	<conio.h>
+	"Clientes.h"
+
+1752842493 e:\taller2.0\taller2.0\clientes.h
+
+1752959068 source:e:\taller2.0\taller2.0\facturacion.cpp
+	"Facturacion.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<vector>
+	"rlutil.h"
+	<algorithm>
+
+1752952491 e:\taller2.0\taller2.0\facturacion.h
+	"Servicios.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<vector>
+
+1752869769 e:\taller2.0\taller2.0\servicios.h
+	"Clientes.h"
+	"Vehiculos.h"
+	"Repuestos.h"
+	"Fecha.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1752842589 e:\taller2.0\taller2.0\vehiculos.h
+
+1752846317 e:\taller2.0\taller2.0\repuestos.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1752869140 e:\taller2.0\taller2.0\fecha.h
+	<iostream>
+	<cstdio>
+
+1752851618 source:e:\taller2.0\taller2.0\main.cpp
+	"MenuPrincipal.h"
+
+1752851589 e:\taller2.0\taller2.0\menuprincipal.h
+	"Repuestos.h"
+	"Servicios.h"
+	"Facturacion.h"
+
+1752957740 source:e:\taller2.0\taller2.0\menuprincipal.cpp
+	"MenuPrincipal.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+
+1752960192 source:e:\taller2.0\taller2.0\repuestos.cpp
+	"Repuestos.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	<cctype>
+	"rlutil.h"
+
+1752960497 source:e:\taller2.0\taller2.0\servicios.cpp
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cctype>
+	"rlutil.h"
+
+1752842870 source:e:\taller2.0\taller2.0\vehiculos.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	"Vehiculos.h"
+
+1701376235 e:\taller2.0\taller2.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1753100087 source:c:\users\francisco benitez\downloads\taller2.0\clientes.cpp
+	<iostream>
+	<conio.h>
+	"Clientes.h"
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\clientes.h
+
+1753204242 source:c:\users\francisco benitez\downloads\taller2.0\facturacion.cpp
+	"Facturacion.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<vector>
+	"rlutil.h"
+	<algorithm>
+
+1753204134 c:\users\francisco benitez\downloads\taller2.0\facturacion.h
+	"Servicios.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<vector>
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\servicios.h
+	"Clientes.h"
+	"Vehiculos.h"
+	"Repuestos.h"
+	"Fecha.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\vehiculos.h
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\repuestos.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1753205237 c:\users\francisco benitez\downloads\taller2.0\fecha.h
+	<iostream>
+	<cstdio>
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1753100087 source:c:\users\francisco benitez\downloads\taller2.0\main.cpp
+	"MenuPrincipal.h"
+
+1753100087 c:\users\francisco benitez\downloads\taller2.0\menuprincipal.h
+	"Repuestos.h"
+	"Servicios.h"
+	"Facturacion.h"
+
+1753100301 source:c:\users\francisco benitez\downloads\taller2.0\menuprincipal.cpp
+	"MenuPrincipal.h"
+	"rlutil.h"
+	<iostream>
+	<string>
+
+1753100087 source:c:\users\francisco benitez\downloads\taller2.0\repuestos.cpp
+	"Repuestos.h"
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	<cctype>
+	"rlutil.h"
+
+1753214172 source:c:\users\francisco benitez\downloads\taller2.0\servicios.cpp
+	"Servicios.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cctype>
+	"rlutil.h"
+
+1753100087 source:c:\users\francisco benitez\downloads\taller2.0\vehiculos.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	"Vehiculos.h"
+
